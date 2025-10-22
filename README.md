@@ -1,0 +1,3 @@
+CINEMA-ROYALE-SCHEDULER is a modern web application designed to streamline the cinema ticket booking process. Beyond standard features, this system leverages CPU Scheduling and Resource Allocation algorithms to efficiently manage high-demand seating and concurrent booking requests, ensuring fair access and optimal performance during peak sales times (e.g., ticket releases, popular showtimes).
+
+This project serves as a practical demonstration of applying theoretical computer science concepts (like scheduling and resource management) to solve real-world concurrency challenges in a high-traffic web service.
